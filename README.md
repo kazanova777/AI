@@ -1,5 +1,4 @@
 # AI-Programming-Work
-# AI Programming Tasks Overview
 
 ## Introduction
 
